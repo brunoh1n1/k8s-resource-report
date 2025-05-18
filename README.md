@@ -1,6 +1,6 @@
 🔍 Kubernetes Resource Usage Inspector
 
-Este script inspeciona o cluster Kubernetes e gera um relatório detalhado sobre a utilização de recursos por namespace, sugerindo possíveis melhorias com base no uso real versus os recursos solicitados (requests) e limites (limits).
+Este script inspeciona o cluster Kubernetes e gera um relatório detalhado sobre a utilização de recursos por namespace, sugerindo possíveis melhorias com base no uso real versus os recursos solicitados (requests) e (limits).
 📦 Funcionalidades
 
     Coleta uso de CPU e memória por namespace.
